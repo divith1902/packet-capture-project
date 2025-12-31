@@ -1,0 +1,28 @@
+Packet Capture & Traffic Analysis using Wireshark
+1. Introduction
+In modern computer networks, monitoring traffic and analyzing packets is a crucial part of
+cybersecurity. Packet capture helps understand data flow, detect threats, and troubleshoot issues.
+Wireshark is a widely used protocol analyzer for network packet capture and analysis.
+2. Objective
+• Capture live network packets using Wireshark.
+• Analyze ICMP, DNS, HTTP, HTTPS packets.
+• Understand encrypted vs unencrypted traffic.
+• Study packet headers, protocol information.
+3. Tools & Environment- Kali Linux (Traffic monitoring)- Wireshark (Packet analysis)- Browser (Traffic generation)- GitHub (Project upload)
+4. Methodology
+Started Wireshark, selected interface, captured packets. Generated network traffic using ping, DNS
+lookup, HTTP/HTTPS.
+5. Observations
+ICMP – Request/Reply visible.
+DNS – Domain resolution captured.
+HTTP – Data visible in plaintext.
+HTTPS – Encrypted traffic observed.
+6. Filters Used
+icmp, dns, http, tls, tcp, udp
+7. Results
+Successfully captured & analyzed traffic patterns, protocol behavior & security differences.
+8. Conclusion
+This project demonstrates Wireshark usage in real-time packet analysis, helping understand network
+communication & security importance.
+Submitted by:
+        MUNI SAI DIVITH
