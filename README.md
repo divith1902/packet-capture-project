@@ -43,4 +43,20 @@ It includes a practical video showing packet capture and filtering of DNS, ICMP,
 ## 🚀 How to Use the Project
 1. Download video or watch directly.
 2. Replicate same steps in Kali Linux environment.
-3. Use filters in Wireshark such as:
+3. Use filters in Wireshark such as:icmp
+a)dns
+b)http
+c)tcp
+d)tls
+
+---
+
+## 🧠 Conclusion
+This project helps understand how data travels over network, how Wireshark captures packets, and how analysis helps in cybersecurity & troubleshooting.
+
+---
+
+## ✨ Author
+       MUNI SAI DIVITH
+
+
